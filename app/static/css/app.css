@@ -1,3 +1,22 @@
 body {
     padding-top: 5rem;
 }
+
+.alert-list{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 10px;
+}
+
+.flashes{
+    padding: 0;
+}
+
+label{
+    font-weight: 700;
+}
+
+.required{
+    font-weight: 700;
+    color: red;
+}
